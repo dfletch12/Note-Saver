@@ -1,38 +1,30 @@
 # Note-Saver
-An application that will allow you to input a title and text for a note which will then be saved and displayed on the page.
+An application that will allow you to input a title and text for a note which will then be saved and displayed on the page which can then be viewed and deleted.
 
  ## Table of Contents
    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
    * [Description](#description)
    * [Installation](#installation)
    * [Usage](#usage)
-   * [Video](#video)
    * [Licenses](#licenses)
    * [Contributing](#contributing)
-   * [Tests](#tests)
    * [Questions](#questions)
-   * [Credits](#credits)
 
    ## Description
-   This project is a node based team generator. It generates an html page with cards for all the members of the team based on answers to a series of prompts from inquirer.
+   This project is an express application deployed to heroku and used for taking notes.
 
    ## Installation
-   Download and install node and npm.
+   Download and install npm and express.
 
    ## Usage
-   To test open the integrated terminal and run npm run test. To start answering the npm prompts run npm start.
-
-   ## Video
-   https://drive.google.com/file/d/1CdztW8ah2kFdnaSP6tVFRngVaNZjO3gW/view
+   Go to https://heroku-note-taker.herokuapp.com/
+   Github repo https://github.com/dfletch12/Note-Saver
 
    ## Licenses
    This project is covered with the MIT license. For more information on this license please click the badge at the top of the readme.
 
    ## Contributions
    Dalton Fletcher
-
-   ## Tests
-   To test the code please fork the repository and in VS code open the integrated terminal and run "node start" then follow the prompts.
    
    ## Questions
    Contact Me @  
